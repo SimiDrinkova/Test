@@ -6,3 +6,17 @@ p {
     display: flex;
     justify-content: center;
 }
+
+input[type="text"]{
+    border-radius: 30px;
+    border-color: brown;
+    box-shadow: red;
+}
+
+input[type="submit"]{
+    border-radius: 30px;
+    padding: 10px;
+    color: red;
+    background-color: none;
+    background: green;
+}
